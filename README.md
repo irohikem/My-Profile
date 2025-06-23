@@ -1,4 +1,4 @@
-# My- Profile
+# My-Profile
 - 👋 Hi, this is Iroh Ikemdinachi's official GitHub account.
 - 🎯 I am an insight-driven and results-oriented Business Data Analyst and Data Scientist with over six years of experience delivering impactful, data-driven solutions across healthcare, finance, technology, and SaaS sectors. I am skilled in SQL, Python, Power BI, Tableau, Excel, and Salesforce CRM to support advanced analytics, predictive modelling, workflow automation, and interactive dashboard development.
 - I am known for translating complex datasets into actionable insights, aligning data strategies with business goals, and enabling evidence-based decision-making. I combine analytical expertise with strong project and stakeholder management skills, and I bring a proven track record of improving reporting systems, enhancing performance, and driving innovation through AI and cloud technologies.
