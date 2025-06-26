@@ -4,9 +4,9 @@
 - I am known for translating complex datasets into actionable insights, aligning data strategies with business goals, and enabling evidence-based decision-making. I combine analytical expertise with strong project and stakeholder management skills, and I bring a proven track record of improving reporting systems, enhancing performance, and driving innovation through AI and cloud technologies.
 - 👥 I am eager to contribute to a forward-thinking organization that values data as a strategic asset for growth and transformation. Let's collaborate on this transformative journey as I learn and explore innovative ways of solving real-world problems through data.
 ### 📫 Connect with me:
-- 💼 GitHub: github.com/irohikem
-- 👥 LinkedIn: linkedin.com/in/ikemdinachi-iroh
-- 📸 Twitter - X: x.com/irohikem
+- 💼 [GitHub](github.com/irohikem)
+- 👥 [LinkedIn](linkedin.com/in/ikemdinachi-iroh)
+- 📸 [Twitter - X](x.com/irohikem)
 
 - ## Education
 - Master of Science in Artificial Intelligence and Data Science | University of Hull | November 2023
@@ -35,3 +35,7 @@
 - Predictive Model for Readmission Risk: Developed a logistic regression model using Python to forecast hospital readmissions with high precision.
 - Power BI Sales Dashboard: Created a regional sales dashboard that enabled sales managers to spot underperforming areas, increasing revenue by 12% quarter-over-quarter.
 
+## Publications
+- Congo red removal from aqueous solution by a consortium of Aspergillus sp. immobilized on activated carbon in a packed bed column: modelling of the breakthrough curves. Taylor & Francis Online : Bioremediation Journal · Apr 8, 2024 [https://www.tandfonline.com/doi/full/10.1080/10889868.2024.2337175]
+  
+- Composting technology in waste stabilization: On the methods, challenges and future prospects. Elsevier : Journal of Environmental Management · Apr 1, 2017 [https://www.sciencedirect.com/science/article/abs/pii/S0301479716310349]
