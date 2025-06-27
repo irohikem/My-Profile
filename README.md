@@ -4,9 +4,9 @@
 - I am known for translating complex datasets into actionable insights, aligning data strategies with business goals, and enabling evidence-based decision-making. I combine analytical expertise with strong project and stakeholder management skills, and I bring a proven track record of improving reporting systems, enhancing performance, and driving innovation through AI and cloud technologies.
 - 👥 I am eager to contribute to a forward-thinking organization that values data as a strategic asset for growth and transformation. Let's collaborate on this transformative journey as I learn and explore innovative ways of solving real-world problems through data.
 ### 📫 Connect with me:
-- 💼 [GitHub](github.com/irohikem)
-- 👥 [LinkedIn](linkedin.com/in/ikemdinachi-iroh)
-- 📸 [Twitter - X](x.com/irohikem)
+- 💼 GitHub: [GitHub](github.com/irohikem)
+- 👥 LinkedIn: [LinkedIn](linkedin.com/in/ikemdinachi-iroh)
+- 📸 X: [Twitter - X](x.com/irohikem)
 
 - ## Education
 - Master of Science in Artificial Intelligence and Data Science | University of Hull | November 2023
